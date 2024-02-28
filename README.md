@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
   </a> 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fbootstrap-icons&psig=AOvVaw2dcgBFLV-w2c7hbFjQceFQ&ust=1709196986956000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDsiozVzYQDFQAAAAAdAAAAABAD)" alt="bootstrap" width="40" height="40"/> 
   </a> 
 </p>
 <br/>
