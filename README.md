@@ -20,7 +20,7 @@
   </a> 
 </p>
 <br/>
-<p align ="center">💻 For now I don't have much to say about my experience, but I'm very eager to learn at the 4Geek Academy bootcamp and become a real Full-Stack Developer.💻</p>
+<p align ="center">💻 I am a constant and patient person, able to work under pressure. My goal is to specialize in back-end using Java and Python. I am always looking for new opportunities to learn and grow professionally.💻</p>
 <br/>
 
 
