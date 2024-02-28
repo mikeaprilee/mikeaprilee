@@ -24,7 +24,7 @@
 <br/>
 
 
-- I am a student of 4Geek. 🥸
+- I am a Full-Stack developer :technologist::skin-tone-2:
 - I have experience in another field of work. 👨‍🍳
 - I can speak Spanish, Italian and a little bit of English (I'm improving). 😅
 - My dream 💭 is to be a game developer. It's hard but if I can't be one at least something to do in that field. 🎮
