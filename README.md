@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Aprile Mancha</h1>
+<h1 align="center">I'm Michael Aprile Mancha</h1>
 
 <h3 align="center">
   Full-Stack Software Developer · Java & Python Backend Enthusiast
