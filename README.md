@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Michael Aprile Mancha</h1>
+<h1 align="center">Hi, I'm Michael Aprile Mancha</h1>
 
 <h3 align="center">
-  Full-Stack Software Developer · Java & Python Backend Enthusiast
+  Full-stack developer with a growing focus on backend development
 </h3>
 
 <p align="center">
@@ -18,49 +18,45 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-I am a **Full-Stack Software Developer** currently studying a Higher Degree in
-Multiplatform Application Development.
+I'm currently studying a Higher Degree in Multiplatform Application Development
+at Davante Medac Nova.
 
-I enjoy creating web and multiplatform applications, designing APIs, working
-with databases and solving technical problems. My main professional goal is to
-specialize in backend development with **Java and Python**, while continuing to
-grow as a versatile developer.
+I enjoy building applications, understanding how their different parts work
+together and solving problems through code. I have worked with **Java, Spring
+Boot, Python, Flask, JavaScript, React and SQL** in academic and personal
+projects, and I am especially interested in backend development and APIs.
 
-- 🔭 Currently working on personal and academic software projects
-- 🌱 Improving my skills in **Java, Spring Boot, Python and React**
-- 🧠 Interested in backend development, APIs, databases and artificial intelligence
-- 🤝 Comfortable working in teams and under pressure
-- 💬 Languages: Spanish, Italian and English
-- 🎯 Goal: become a skilled developer and future team lead
+Technology is one of my main interests, so continuous learning is an important
+part of my way of working. I try to approach each project with curiosity,
+motivation and a proactive attitude while continuing to improve as a developer.
+
+- Currently working on academic and personal software projects
+- Learning more about backend development, APIs and databases
+- Building projects with Java, Spring Boot, Python, Flask, JavaScript, React and SQL
+- Languages: Spanish, Italian and English
 
 ---
 
-## 🛠️ Technologies and tools
+## Technologies and tools
 
-### Programming languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,kotlin,html,css" alt="Programming languages">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" alt="Programming languages">
 </p>
 
-### Frameworks and libraries
+### Backend and frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,spring,nodejs,flask,django" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=spring,flask,react" alt="Backend and frontend technologies">
 </p>
 
-### Databases
+### Databases and tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" alt="Databases">
-</p>
-
-### Tools and platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,androidstudio,vscode" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,github,vscode" alt="Databases and development tools">
 </p>
 
 ---
@@ -69,12 +65,13 @@ grow as a versatile developer.
 
 ### InfluJobs
 
-A web application developed using a client-server architecture.
+InfluJobs is a web application developed during my Full-Stack Web Development
+training at 4Geeks Academy.
 
-- Frontend developed with **JavaScript, HTML, CSS and React**
-- Backend developed with **Python and Flask**
-- Database integration and server-side logic
-- Focused on connecting influencers and professional opportunities
+The project follows a client-server architecture and connects influencers with
+professional opportunities. I worked on the frontend with JavaScript, HTML, CSS
+and React, and on the backend with Python and Flask. The project also involved
+database integration, API communication and server-side logic.
 
 <a href="https://github.com/mikeaprilee/InfluJobs">
   <img src="https://img.shields.io/badge/View%20project-InfluJobs-2ea44f?style=for-the-badge&logo=github" alt="View InfluJobs project">
@@ -101,29 +98,26 @@ A web application developed using a client-server architecture.
 ## 💼 Professional experience
 
 - **AI Prompt Engineering Intern · Bimfloat**  
-  Creation and optimization of prompts for generative artificial intelligence.
+  Worked on creating, testing and improving prompts for generative AI applications.
 
 - **Technology Salesperson · MediaMarkt**  
-  Customer service, technology sales, KPIs, insurance sales and stock control.
+  Developed customer service and communication skills while advising customers
+  on technology products, working with sales targets, insurance products and
+  stock control.
 
 - **Full-Stack Development Intern · 4Geeks Academy**  
-  Development of the InfluJobs application using React, Python, Flask,
-  databases and client-server architecture.
+  Contributed to the development of InfluJobs using React, Python, Flask,
+  databases and a client-server architecture.
 
 ---
 
-## 🧩 Soft skills
-
-- Teamwork and communication
-- Leadership and decision-making
-- Adaptability and continuous learning
-- Problem-solving
-- Empathy and social skills
-- Ability to work under pressure
+I value teamwork, clear communication and continuous learning. My previous
+experience in technology sales and software development has also helped me
+become more adaptable and comfortable solving problems in different environments.
 
 ---
 
-## 📊 GitHub statistics
+## GitHub activity
 
 <p align="center">
   <img
@@ -147,13 +141,11 @@ A web application developed using a client-server architecture.
 
 ---
 
-## 📫 Contact
+## Contact
 
-- LinkedIn: [linkedin.com/in/michaelaprile](https://www.linkedin.com/in/michaelaprile/)
-- Email: [mikeaprilee@gmail.com](mailto:mikeaprilee@gmail.com)
-- GitHub: [github.com/mikeaprilee](https://github.com/mikeaprilee)
+You can find me on [LinkedIn](https://www.linkedin.com/in/michaelaprile/) or
+reach me by email at [mikeaprilee@gmail.com](mailto:mikeaprilee@gmail.com).
 
 <p align="center">
   <i>Always learning, building and improving.</i>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeaprilee&show_icons=true&locale=en" alt="mikeaprilee" /></p>
