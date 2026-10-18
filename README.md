@@ -5,6 +5,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+projects+with+Java+and+Python;Learning+something+new+every+day;Always+learning+and+improving" alt="Animated introduction">
+</p>
+
+<p align="center">
   <a href="https://github.com/mikeaprilee">
     <img src="https://img.shields.io/badge/GitHub-mikeaprilee-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
@@ -142,6 +146,13 @@ A web application developed using a client-server architecture.
   <img
     src="https://streak-stats.demolab.com?user=mikeaprilee&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mikeaprilee/mikeaprilee/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution activity"
   />
 </p>
 
