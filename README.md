@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 I am a **Full-Stack Software Developer** currently studying a Higher Degree in
 Multiplatform Application Development.
@@ -37,7 +37,7 @@ grow as a versatile developer.
 
 ---
 
-## 🛠️ Technologies and tools
+## Technologies and tools
 
 ### Programming languages
 
@@ -65,7 +65,7 @@ grow as a versatile developer.
 
 ---
 
-## 🚀 Featured project
+## Featured project
 
 ### InfluJobs
 
@@ -82,7 +82,7 @@ A web application developed using a client-server architecture.
 
 ---
 
-## 🎓 Education and training
+## Education and training
 
 - **Higher Degree in Multiplatform Application Development**  
   Davante Medac Nova · 2025–2027
@@ -98,7 +98,7 @@ A web application developed using a client-server architecture.
 
 ---
 
-## 💼 Professional experience
+## Professional experience
 
 - **AI Prompt Engineering Intern · Bimfloat**  
   Creation and optimization of prompts for generative artificial intelligence.
@@ -112,7 +112,7 @@ A web application developed using a client-server architecture.
 
 ---
 
-## 🧩 Soft skills
+## Soft skills
 
 - Teamwork and communication
 - Leadership and decision-making
@@ -123,7 +123,7 @@ A web application developed using a client-server architecture.
 
 ---
 
-## 📊 GitHub statistics
+## GitHub statistics
 
 <p align="center">
   <img
@@ -147,7 +147,7 @@ A web application developed using a client-server architecture.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [linkedin.com/in/michaelaprile](https://www.linkedin.com/in/michaelaprile/)
 - Email: [mikeaprilee@gmail.com](mailto:mikeaprilee@gmail.com)
