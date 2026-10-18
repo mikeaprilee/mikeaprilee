@@ -151,7 +151,7 @@ A web application developed using a client-server architecture.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/mikeaprilee/mikeaprilee/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/mikeaprilee/mikeaprilee/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub contribution activity"
   />
 </p>
