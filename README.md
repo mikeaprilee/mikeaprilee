@@ -28,12 +28,12 @@ with databases and solving technical problems. My main professional goal is to
 specialize in backend development with **Java and Python**, while continuing to
 grow as a versatile developer.
 
-- 🔭 Currently working on personal and academic software projects
-- 🌱 Improving my skills in **Java, Spring Boot, Python and React**
-- 🧠 Interested in backend development, APIs, databases and artificial intelligence
-- 🤝 Comfortable working in teams and under pressure
-- 💬 Languages: Spanish, Italian and English
-- 🎯 Goal: become a skilled developer and future team lead
+- Currently working on personal and academic software projects
+- Improving my skills in **Java, Spring Boot, Python and React**
+- Interested in backend development, APIs, databases and artificial intelligence
+- Comfortable working in teams and under pressure
+- Languages: Spanish, Italian and English
+- Goal: become a skilled developer and future team lead
 
 ---
 
