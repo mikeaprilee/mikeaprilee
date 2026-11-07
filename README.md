@@ -167,4 +167,4 @@ A web application developed using a client-server architecture.
 <p align="center">
   <i>Always learning, building and improving.</i>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeaprilee&show_icons=true&locale=en" alt="mikeaprilee" /></p>
+
