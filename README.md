@@ -71,17 +71,15 @@ grow as a versatile developer.
 
 ## Featured project
 
-### InfluJobs
+### YokaiInfectionV2
 
-A web application developed using a client-server architecture.
+I am currently developing this mobile application.
 
-- Frontend developed with **JavaScript, HTML, CSS and React**
-- Backend developed with **Python and Flask**
-- Database integration and server-side logic
-- Focused on connecting influencers and professional opportunities
+- Developed with **Java and Kotlin**
+- **Firebase** planned as the database solution
 
-<a href="https://github.com/mikeaprilee/InfluJobs">
-  <img src="https://img.shields.io/badge/View%20project-InfluJobs-2ea44f?style=for-the-badge&logo=github" alt="View InfluJobs project">
+<a href="https://github.com/mikeaprilee/YokaiInfectionV2">
+  <img src="https://img.shields.io/badge/View%20project-YokaiInfectionV2-2ea44f?style=for-the-badge&logo=github" alt="View YokaiInfectionV2 project">
 </a>
 
 ---
@@ -131,12 +129,12 @@ A web application developed using a client-server architecture.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mikeaprilee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats-fast.vercel.app/api?username=mikeaprilee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="Michael Aprile's GitHub statistics"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeaprilee&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mikeaprilee&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most used programming languages"
     height="180"
   />
